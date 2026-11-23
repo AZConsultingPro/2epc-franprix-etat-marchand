@@ -1,0 +1,278 @@
+[
+  [
+    {
+      "question": "Une palette contient des glaces à −18 °C, des yaourts à +4 °C et des conserves. Quel lot achemines-tu en premier ?",
+      "correct": "Les glaces vers le bac congélateur",
+      "d1": "Les yaourts car leur date est courte",
+      "d2": "Les conserves pour dégager le passage",
+      "d3": "Le lot qui contient le plus de cartons",
+      "feedback": "Lis les conditions de conservation. Les glaces doivent rejoindre sans attente excessive le meuble négatif. La taille du lot et la date ne déterminent pas la priorité du froid.",
+      "transfert": "Et si le plus petit carton contenait aussi des glaces ?"
+    },
+    {
+      "question": "Une étiquette indique « +4 °C maximum ». Quel relevé respecte cette limite supérieure ?",
+      "correct": "+3 °C",
+      "d1": "+5 °C",
+      "d2": "+6 °C",
+      "d3": "+8 °C",
+      "feedback": "Maximum signifie que l’on peut être en dessous de +4 °C dans la plage adaptée au produit. Un degré de plus dépasse déjà la limite.",
+      "transfert": "Que dirais-tu d’un relevé de +4 °C ?"
+    },
+    {
+      "question": "Un collègue propose de déposer un colis de frais dans l’allée pendant la pause. Que proposes-tu ?",
+      "correct": "Acheminer le colis au froid avant la pause",
+      "d1": "Le laisser fermé dans son carton",
+      "d2": "Le poser à l’ombre du linéaire",
+      "d3": "Le ranger après les produits secs",
+      "feedback": "Un carton ou un emplacement ombragé ne maintient pas la température prescrite. Organise le trajet jusqu’au meuble adapté.",
+      "transfert": "Où placerais-tu le colis si le rayon ne peut pas le recevoir ?"
+    },
+    {
+      "question": "Une pizza doit rester à −18 °C maximum. Quel emplacement convient ?",
+      "correct": "Une chambre négative réglée à −20 °C",
+      "d1": "Une chambre positive à +2 °C",
+      "d2": "Un meuble réfrigéré à +4 °C",
+      "d3": "Une chambre négative à −8 °C",
+      "feedback": "Le signe négatif seul ne suffit pas. −8 °C est plus chaud que −18 °C. −20 °C respecte la limite indiquée.",
+      "transfert": "À −16 °C, la limite serait-elle respectée ?"
+    },
+    {
+      "question": "Un emballage porte le Label Rouge. Quelle information donner au client ?",
+      "correct": "Le produit répond à des critères de qualité supérieure",
+      "d1": "Toutes les étapes ont lieu dans la même région",
+      "d2": "La recette est protégée comme spécialité traditionnelle",
+      "d3": "Le produit respecte le cahier des charges biologique",
+      "feedback": "Le Label Rouge porte sur une qualité supérieure par rapport aux produits similaires. Origine, bio et recette correspondent à d’autres garanties.",
+      "transfert": "Quel signe chercher pour une recette traditionnelle ?"
+    },
+    {
+      "question": "Un produit porte à la fois AB et la feuille européenne. Comment le compter dans les familles de signes ?",
+      "correct": "Une famille, l’agriculture biologique",
+      "d1": "Deux origines géographiques différentes",
+      "d2": "Une famille bio et une famille Label Rouge",
+      "d3": "Deux spécialités traditionnelles",
+      "feedback": "Les deux logos peuvent identifier la même démarche biologique. Compter les dessins comme des familles surestime leur nombre.",
+      "transfert": "Comment classerais-tu un produit portant uniquement la feuille ?"
+    },
+    {
+      "question": "Une recette est protégée par une STG. Quelle affirmation peux-tu soutenir ?",
+      "correct": "Une composition ou méthode traditionnelle est reconnue",
+      "d1": "Chaque étape a lieu dans un terroir unique",
+      "d2": "Le produit vient toujours de France",
+      "d3": "Le produit est nécessairement issu de l’agriculture biologique",
+      "feedback": "La STG reconnaît une tradition. Pour annoncer une origine ou une méthode biologique, il faut un indice correspondant.",
+      "transfert": "Qu’examinerais-tu pour expliquer une IGP ?"
+    },
+    {
+      "question": "Deux fromages affichent AOP et IGP. Quelle précision donne un conseil exact ?",
+      "correct": "L’AOP lie toutes les étapes au territoire, l’IGP en exige au moins une",
+      "d1": "L’IGP exige toutes les étapes dans le territoire et l’AOP une seule",
+      "d2": "Les deux signes garantissent une qualité supérieure Label Rouge",
+      "d3": "Les deux signes protègent uniquement la recette",
+      "feedback": "Le lien géographique est central. Sa portée diffère entre AOP et IGP. L’AOC est la reconnaissance française liée à l’origine.",
+      "transfert": "Que vérifier avant d’affirmer que tout a été fabriqué dans l’aire ?"
+    },
+    {
+      "question": "Dans un autre inventaire, 30 produits sur 120 portent un signe donné. Quelle part représente ce groupe ?",
+      "correct": "25 %",
+      "d1": "30 %",
+      "d2": "40 %",
+      "d3": "75 %",
+      "feedback": "30 ÷ 120 × 100 = 25. Le nombre de produits devient un pourcentage seulement après division par le total.",
+      "transfert": "Combien sur 200 donneraient la même part ?"
+    },
+    {
+      "question": "Le plus grand secteur d’un graphique représente 37 % des références comptées. Quelle conclusion est justifiée ?",
+      "correct": "C’est la catégorie la plus représentée dans cet inventaire",
+      "d1": "Elle représente la majorité absolue des références",
+      "d2": "Elle réalise 37 % du chiffre d’affaires",
+      "d3": "37 % des clients la choisissent",
+      "feedback": "37 % peut être la plus grande part sans dépasser la moitié. Le graphique compte des références, pas des achats ni des ventes.",
+      "transfert": "Quelle donnée manque pour parler des ventes ?"
+    }
+  ],
+  [
+    {
+      "question": "Le vendeur sert du fromage à la coupe depuis son poste central entouré de comptoirs. Quel mobilier reconnais-tu ?",
+      "correct": "Une bergerie",
+      "d1": "Une gondole",
+      "d2": "Un meuble vrac",
+      "d3": "Un meuble de devant de caisse",
+      "feedback": "La disposition autour du vendeur et le service à la coupe caractérisent la bergerie. Repère qui prélève le produit.",
+      "transfert": "Un client peut-il y prendre lui-même une portion à couper ?"
+    },
+    {
+      "question": "Des pommes sont livrées en cagettes pour être choisies à l’unité. Où les présenter ?",
+      "correct": "Sur un présentoir à cagettes",
+      "d1": "Sur un meuble de devant de caisse",
+      "d2": "Dans une bergerie de coupe",
+      "d3": "Dans un distributeur de vrac à gravité",
+      "feedback": "Le présentoir accueille les cagettes et rend chaque fruit accessible sans verser le lot dans un silo.",
+      "transfert": "Et pour des poires vendues de la même manière ?"
+    },
+    {
+      "question": "Un client se sert des lentilles à la quantité souhaitée en ouvrant une trappe. Quel meuble est adapté ?",
+      "correct": "Un meuble vrac avec silo",
+      "d1": "Un présentoir à cagettes",
+      "d2": "Un bac congélateur ouvert",
+      "d3": "Une gondole de sachets prêts à vendre",
+      "feedback": "Le silo distribue une quantité choisie de produits secs. Un sachet prérempli impose déjà la quantité.",
+      "transfert": "Quel dispositif évite de mélanger deux variétés ?"
+    },
+    {
+      "question": "Où placer des chewing-gums destinés à un achat de dernière minute ?",
+      "correct": "Sur le meuble de devant de caisse",
+      "d1": "Au centre d’une bergerie de service",
+      "d2": "Dans un bac congélateur promotionnel",
+      "d3": "Sur un présentoir à cagettes en réserve",
+      "feedback": "L’emplacement devant la caisse rend un petit article accessible au moment de payer. Le choix dépend aussi du parcours du client.",
+      "transfert": "Quel autre petit article pourrait convenir ?"
+    },
+    {
+      "question": "Pour proposer des glaces en libre-service à −18 °C, quel équipement choisir ?",
+      "correct": "Un bac congélateur à la température indiquée",
+      "d1": "Une vitrine positive de desserts frais",
+      "d2": "Une gondole avec joues isolantes",
+      "d3": "Une bergerie à +4 °C",
+      "feedback": "Un mobilier froid doit maintenir la température requise. Une vitrine réfrigérée positive ne conserve pas les glaces surgelées.",
+      "transfert": "Quel relevé vérifier avant de remplir le bac ?"
+    },
+    {
+      "question": "Les bouteilles sont en retrait mais plusieurs unités restent au fond. Quel premier geste de présentation convient ?",
+      "correct": "Avancer et aligner les unités à leur emplacement",
+      "d1": "Transférer la référence vers une autre étiquette",
+      "d2": "Passer immédiatement une commande",
+      "d3": "Élargir la référence voisine sur la place vide",
+      "feedback": "Le facing utilise les produits déjà présents. Il facilite le repérage et conserve la correspondance entre produit et prix.",
+      "transfert": "Que changer si aucune bouteille ne reste ?"
+    },
+    {
+      "question": "L’étiquette de marque d’une bouteille est tournée vers le fond. Quelle action aide le client ?",
+      "correct": "Orienter la face de vente vers l’allée",
+      "d1": "Tourner toutes les bouteilles côté code-barres",
+      "d2": "Masquer l’étiquette-prix pour libérer la vue",
+      "d3": "Déplacer la bouteille devant le prix voisin",
+      "feedback": "Le client repère la variété et lit le prix quand la face de vente et l’étiquette de tablette correspondent.",
+      "transfert": "Essaie le geste avec une boîte de céréales."
+    },
+    {
+      "question": "Un emplacement est vide, mais un carton conforme de la même référence est disponible en réserve. Quel geste effectues-tu ?",
+      "correct": "Réassortir puis refaire la frontale",
+      "d1": "Avancer uniquement la référence voisine",
+      "d2": "Déclarer une rupture de stock du magasin",
+      "d3": "Retirer l’étiquette de prix",
+      "feedback": "Le réassort apporte des unités disponibles. Le facing seul ne remplit pas un emplacement sans produit.",
+      "transfert": "Et si le carton contenait un format différent ?"
+    },
+    {
+      "question": "Deux lots de yaourts ont des dates différentes, toutes deux valides. Comment les disposer ?",
+      "correct": "Placer les dates les plus proches devant",
+      "d1": "Placer systématiquement le nouveau carton devant",
+      "d2": "Mélanger les deux lots pour uniformiser les couleurs",
+      "d3": "Laisser les dates proches derrière le lot reçu",
+      "feedback": "La rotation rend d’abord accessibles les unités à vendre plus tôt. Un rayon bien aligné peut encore cacher une mauvaise rotation.",
+      "transfert": "Où placer le carton dont la date est la plus éloignée ?"
+    },
+    {
+      "question": "Un collègue veut produire un effet de masse sur une tablette déjà presque pleine. Que fais-tu ?",
+      "correct": "Répartir régulièrement dans la capacité prévue",
+      "d1": "Empiler au-delà de la butée de sécurité",
+      "d2": "Utiliser l’emplacement voisin malgré son prix différent",
+      "d3": "Bloquer la prise du premier produit pour stabiliser la pile",
+      "feedback": "L’abondance visuelle repose sur une présentation régulière et accessible. Le mobilier et ses limites protègent le client.",
+      "transfert": "Comment obtenir cet effet sur une seule profondeur ?"
+    }
+  ],
+  [
+    {
+      "question": "À midi au rayon déjeuner, l’emplacement du sandwich poulet est vide. Que peux-tu affirmer immédiatement ?",
+      "correct": "Aucun sandwich poulet n’est visible à l’emplacement observé",
+      "d1": "Le fournisseur a livré en retard",
+      "d2": "La réserve est vide depuis ce matin",
+      "d3": "Le poulet est la meilleure vente du jour",
+      "feedback": "Un emplacement vide est un constat localisé. Réserve, livraison et rythme des ventes doivent être contrôlés séparément.",
+      "transfert": "Qu’observer ensuite pour préciser ton diagnostic ?"
+    },
+    {
+      "question": "Six wraps sont avancés sous le prix d’une salade. Quelle correction est prioritaire ?",
+      "correct": "Rendre à chaque référence son emplacement et vérifier son prix",
+      "d1": "Avancer les wraps sans changer leur emplacement",
+      "d2": "Masquer le prix le temps de vendre",
+      "d3": "Étendre les wraps sur les deux emplacements",
+      "feedback": "La présentation doit permettre d’associer le bon article au bon prix. L’alignement seul ne corrige pas cette confusion.",
+      "transfert": "Où replacer une salade retrouvée devant les wraps ?"
+    },
+    {
+      "question": "Une barquette fuit dans le meuble frais. Quelle action protège le client ?",
+      "correct": "Retirer la barquette de la vente, isoler et signaler selon la procédure",
+      "d1": "La tourner pour rendre la fuite invisible",
+      "d2": "La placer devant pour la vendre en premier",
+      "d3": "La laisser jusqu’au passage suivant",
+      "feedback": "Une fuite touche l’intégrité du conditionnement. Écarter le produit et traiter la zone selon les consignes précède le facing.",
+      "transfert": "Comment traiter une barquette voisine souillée ?"
+    },
+    {
+      "question": "Il reste deux salades quinoa et six unités sont habituellement vendues avant 14 h. Quelle décision prend en compte le risque ?",
+      "correct": "Contrôler la réserve et préparer le réassort",
+      "d1": "Attendre la dernière vente pour regarder en réserve",
+      "d2": "Déclarer une rupture déjà certaine",
+      "d3": "Étaler les deux salades sur six emplacements",
+      "feedback": "La disponibilité risque d’être insuffisante. La prévision renseigne un risque et le contrôle physique guide l’action.",
+      "transfert": "Que changes-tu si la réserve est vide ?"
+    },
+    {
+      "question": "Le stock informatique affiche cinq salades, tu n’en trouves aucune au rayon. Quelle suite est justifiée ?",
+      "correct": "Vérifier les emplacements et la réserve, puis signaler l’écart éventuel",
+      "d1": "Corriger le stock à zéro d’après la tablette seule",
+      "d2": "Annoncer que cinq unités sont forcément disponibles",
+      "d3": "Recouvrir l’étiquette avec une variété proche",
+      "feedback": "Le stock enregistré et la présence réelle se vérifient. Chercher la bonne référence évite une correction injustifiée.",
+      "transfert": "Quel identifiant vérifier sur un carton ressemblant ?"
+    },
+    {
+      "question": "Les yaourts à boire sont au fond et leurs noms sont cachés. Quel effet client peux-tu expliquer ?",
+      "correct": "Le client peut croire la référence indisponible",
+      "d1": "Le produit a forcément dépassé sa date",
+      "d2": "La température a nécessairement augmenté",
+      "d3": "La marge de la référence a déjà diminué",
+      "feedback": "Le retrait et la face cachée affectent la visibilité. Date, froid et marge demandent d’autres contrôles.",
+      "transfert": "Quel geste rendrait la boisson repérable ?"
+    },
+    {
+      "question": "Un lot conforme arrive pendant le réassort. Les unités déjà présentes expirent plus tôt. Que fais-tu ?",
+      "correct": "Garder les dates proches accessibles devant",
+      "d1": "Installer le nouveau lot devant pour aller plus vite",
+      "d2": "Choisir l’ordre selon la couleur de l’emballage",
+      "d3": "Ranger les deux lots sans lire leurs dates",
+      "feedback": "Les dates orientent la rotation des produits frais. Une livraison récente ne détermine pas à elle seule l’ordre d’exposition.",
+      "transfert": "Et si le nouveau lot avait la date la plus courte ?"
+    },
+    {
+      "question": "Mathieu signale une baisse des ventes. Quelle phrase convient dans le courriel ?",
+      "correct": "J’ai observé deux emplacements vides à midi. Vérifions leur durée et les ventes.",
+      "d1": "Le fournisseur est responsable de toute la baisse.",
+      "d2": "La baisse vient sûrement du prix, inutile de vérifier le rayon.",
+      "d3": "Les clients ne veulent plus de salades puisque la tablette est vide.",
+      "feedback": "Le message précise ce qui est visible et propose un contrôle. Une photo seule ne prouve pas une cause commerciale.",
+      "transfert": "Quelle donnée permettrait de vérifier la durée du manque ?"
+    },
+    {
+      "question": "Le carton de remplacement n’arrivera que demain. Quelle information transmettre ?",
+      "correct": "La référence, la quantité constatée et le prochain approvisionnement connu",
+      "d1": "Seulement le nom de la famille de produits",
+      "d2": "Le nombre de faces sans indiquer la référence",
+      "d3": "Le chiffre d’affaires total du magasin sans le constat",
+      "feedback": "Une alerte exploitable situe le manque et son horizon. Le responsable peut décider et informer l’équipe.",
+      "transfert": "Ajoute l’heure du contrôle à ton message."
+    },
+    {
+      "question": "Après intervention, que vérifies-tu avant de quitter le rayon déjeuner ?",
+      "correct": "Références, prix, dates, alignement et manques encore à signaler",
+      "d1": "Uniquement la symétrie des emballages",
+      "d2": "Uniquement le nombre total de cartons vides",
+      "d3": "Uniquement le chiffre d’affaires de la veille",
+      "feedback": "Le dernier passage relie présentation, conformité et disponibilité. Une belle frontale ne garantit pas le réassort.",
+      "transfert": "Quel point mérite un deuxième passage avant le rush ?"
+    }
+  ]
+]

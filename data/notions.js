@@ -1,0 +1,22 @@
+const lessons=[
+ 'Deux nombres peuvent porter sur des ensembles différents. Le chiffre d’affaires d’un point de vente couvre ses ventes sur une période. Celui d’un réseau peut couvrir un autre ensemble de magasins. Garde la source et l’année à côté du montant.',
+ 'La chaîne du froid se poursuit pendant le déplacement. Sur une étiquette, « maximum » indique la limite à ne pas dépasser. Lis le signe : −18 °C est plus froid que −8 °C. Organise le trajet avant de sortir les colis.',
+ 'Une justification professionnelle relie un choix à un risque. Pour les produits froids, le temps passé sur le quai ou dans l’allée compte aussi.',
+ 'Une chambre froide positive conserve des produits réfrigérés. Une chambre froide négative accueille notamment les surgelés. Vérifie toujours le réglage et la consigne de chaque référence.',
+ 'Un signe officiel est associé à une garantie contrôlée. Une famille peut être représentée par plusieurs logos. Pour classer les signes, cherche ce qui est garanti au client.',
+ 'Certains signes indiquent un lien au territoire. D’autres portent sur une recette, une qualité supérieure ou un mode de production. Un même emballage peut présenter plusieurs informations.',
+ 'Un effectif est un nombre d’éléments. La part indique ce que cet effectif représente dans le total choisi. Dans un graphique à secteurs, le disque entier représente 100 %.',
+ 'Pour commenter un graphique, annonce ce qui est compté, lis une valeur avec son unité puis compare deux catégories du même ensemble.',
+ 'Observe d’abord la famille de produits, le mode de conservation et le geste du client : prendre un paquet, se servir une quantité ou demander au vendeur.',
+ 'Le mobilier doit conserver, protéger et rendre accessible. Un meuble peut se reconnaître à sa forme, mais sa fonction et son emplacement apportent des indices plus sûrs.',
+ 'En libre-service, le client doit reconnaître un produit et son prix depuis l’allée. L’espace visible devant une tablette donne des indices sur le rayon. La réserve nécessite un autre contrôle.',
+ 'Le facing consiste à avancer et orienter les unités présentes. Le réassortiment apporte des unités supplémentaires. Les deux gestes peuvent être nécessaires sur la même tablette.',
+ 'Une anomalie s’explique en trois temps : ce que je vois, l’effet possible sur le client et le geste adapté. Localise toujours le défaut sur une tablette ou devant un prix.',
+ 'Un risque de rupture apparaît quand la quantité disponible risque de ne pas couvrir les ventes attendues. Regarde derrière la première unité puis vérifie la réserve.',
+ 'Un avis professionnel se discute à partir d’indices visibles. Une tablette peut être bien organisée sur une zone et difficile à lire sur une autre.',
+ 'Pour aider un responsable à décider, distingue constat, hypothèse et action. Précise le rayon, le moment du contrôle et ce qui permettra de vérifier la cause supposée.',
+ 'Le client doit pouvoir trouver un produit disponible, bien conservé et identifiable. Présente un geste de chaque mission pour expliquer comment tu obtiens ce résultat.',
+ 'Un client qui achète en vrac choisit sa quantité. Le magasin organise le prélèvement, l’identification, le nettoyage et la protection du produit. Les précautions dépendent de ce qui est vendu.',
+ 'Un exposé clair donne d’abord le sens du signe. Un exemple concret permet ensuite de présenter le point de vue du producteur et celui du consommateur.',
+ 'Pour situer ton niveau, rappelle une action observée. Tu peux réussir avec un indice aujourd’hui puis montrer que tu sais agir seul dans une autre situation.'
+];

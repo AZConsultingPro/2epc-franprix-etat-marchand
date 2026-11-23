@@ -1,0 +1,205 @@
+[
+  {
+    "id": "d2-chambre-froide-positive",
+    "categorie": "Dossier 2",
+    "terme": "Chambre froide positive",
+    "definition_courte": "Local réfrigéré maintenu à une température positive adaptée aux produits.",
+    "exemple_professionnel": "L’équipier range le colis de volaille dans la zone conforme à son étiquette."
+  },
+  {
+    "id": "d2-chambre-froide-negative",
+    "categorie": "Dossier 2",
+    "terme": "Chambre froide négative",
+    "definition_courte": "Local où la température est inférieure à zéro et adaptée aux produits congelés ou surgelés.",
+    "exemple_professionnel": "Un plat étiqueté −18 °C maximum rejoint une chambre réglée à −20 °C."
+  },
+  {
+    "id": "d2-temperature-de-conservation",
+    "categorie": "Dossier 2",
+    "terme": "Température de conservation",
+    "definition_courte": "Température ou plage à respecter pour garder le produit dans de bonnes conditions.",
+    "exemple_professionnel": "L’étiquette du colis de beurre du dossier indique +6 à +8 °C."
+  },
+  {
+    "id": "d2-reassortiment",
+    "categorie": "Dossier 2",
+    "terme": "Réassortiment",
+    "definition_courte": "Ajout de produits pour reconstituer la quantité disponible en rayon.",
+    "exemple_professionnel": "Il reste une seule bouteille ; je complète avec le carton de réserve."
+  },
+  {
+    "id": "d2-lineaire",
+    "categorie": "Dossier 2",
+    "terme": "Linéaire",
+    "definition_courte": "Espace de présentation occupé par les produits sur les tablettes du rayon.",
+    "exemple_professionnel": "Dans le linéaire des eaux, les bouteilles de citron ont un emplacement identifié."
+  },
+  {
+    "id": "d2-effet-de-masse",
+    "categorie": "Dossier 2",
+    "terme": "Effet de masse",
+    "definition_courte": "Impression d’abondance créée par une présentation régulière de plusieurs unités.",
+    "exemple_professionnel": "Je regroupe les boîtes sans dépasser la capacité de l’étagère."
+  },
+  {
+    "id": "d2-alignement",
+    "categorie": "Dossier 2",
+    "terme": "Alignement",
+    "definition_courte": "Disposition des produits sur une même ligne.",
+    "exemple_professionnel": "Les faces des bouteilles arrivent au même niveau, au bord de la tablette."
+  },
+  {
+    "id": "d2-uniformite",
+    "categorie": "Dossier 2",
+    "terme": "Uniformité",
+    "definition_courte": "Aspect régulier obtenu en présentant les produits de manière cohérente.",
+    "exemple_professionnel": "Les pots d’une même référence sont orientés dans le même sens."
+  },
+  {
+    "id": "d2-attractivite",
+    "categorie": "Dossier 2",
+    "terme": "Attractivité",
+    "definition_courte": "Capacité d’un rayon à donner envie de regarder et d’acheter.",
+    "exemple_professionnel": "Le client repère facilement son dessert dans un meuble propre et ordonné."
+  },
+  {
+    "id": "d2-surface-de-vente",
+    "categorie": "Dossier 2",
+    "terme": "Surface de vente",
+    "definition_courte": "Partie du magasin où les clients circulent et choisissent leurs articles.",
+    "exemple_professionnel": "Je quitte la réserve pour rejoindre le rayon boissons."
+  },
+  {
+    "id": "d2-reference",
+    "categorie": "Dossier 2",
+    "terme": "Référence",
+    "definition_courte": "Produit précis identifié par sa variété, son format et son code.",
+    "exemple_professionnel": "Un yaourt nature de 125 g et un yaourt vanille de 125 g sont deux références."
+  },
+  {
+    "id": "d2-rupture-en-rayon",
+    "categorie": "Dossier 2",
+    "terme": "Rupture en rayon",
+    "definition_courte": "Absence d’une référence à son emplacement de vente.",
+    "exemple_professionnel": "Il reste des cartons en réserve mais le client ne trouve aucun jus pomme en rayon."
+  },
+  {
+    "id": "d2-gondole",
+    "categorie": "Dossier 2",
+    "terme": "Gondole",
+    "definition_courte": "Meuble de vente à étagères, souvent disposé en allée.",
+    "exemple_professionnel": "Je place les bocaux devant leurs prix sur la gondole d’épicerie."
+  },
+  {
+    "id": "d2-bergerie",
+    "categorie": "Dossier 2",
+    "terme": "Bergerie",
+    "definition_courte": "Ensemble de comptoirs de service qui entourent le poste du vendeur.",
+    "exemple_professionnel": "Le fromager sert ses clients depuis le centre de la bergerie."
+  },
+  {
+    "id": "d2-meuble-vrac",
+    "categorie": "Dossier 2",
+    "terme": "Meuble vrac",
+    "definition_courte": "Mobilier qui permet au client de prélever une quantité choisie.",
+    "exemple_professionnel": "Le client ouvre la trappe du silo de lentilles."
+  },
+  {
+    "id": "d2-bac-congelateur",
+    "categorie": "Dossier 2",
+    "terme": "Bac congélateur",
+    "definition_courte": "Meuble de vente qui maintient les produits surgelés à la température requise.",
+    "exemple_professionnel": "Je vérifie la température avant de déposer les glaces dans le bac."
+  },
+  {
+    "id": "d2-presentoir-a-cagettes",
+    "categorie": "Dossier 2",
+    "terme": "Présentoir à cagettes",
+    "definition_courte": "Support conçu pour montrer et rendre accessibles des caisses de produits.",
+    "exemple_professionnel": "Les pommes sont disposées dans des cagettes inclinées."
+  },
+  {
+    "id": "d2-meuble-de-devant-de-caisse",
+    "categorie": "Dossier 2",
+    "terme": "Meuble de devant de caisse",
+    "definition_courte": "Petit meuble de vente placé à proximité immédiate du paiement.",
+    "exemple_professionnel": "Le magasin y présente des pastilles à la menthe."
+  },
+  {
+    "id": "d2-vente-en-vrac",
+    "categorie": "Dossier 2",
+    "terme": "Vente en vrac",
+    "definition_courte": "Vente sans emballage préétabli dans la quantité choisie par le client, avec un contenant adapté.",
+    "exemple_professionnel": "Une cliente remplit un sachet réutilisable avec 180 g de riz."
+  },
+  {
+    "id": "d2-aop",
+    "categorie": "Dossier 2",
+    "terme": "AOP",
+    "definition_courte": "Appellation d’origine protégée. Toutes les étapes de production ont lieu dans l’aire géographique selon un savoir-faire reconnu.",
+    "exemple_professionnel": "Un client cherche l’origine d’un beurre AOP."
+  },
+  {
+    "id": "d2-aoc",
+    "categorie": "Dossier 2",
+    "terme": "AOC",
+    "definition_courte": "Appellation d’origine contrôlée. Reconnaissance française d’un produit lié à un terroir et à des savoir-faire.",
+    "exemple_professionnel": "L’équipier explique le sigle AOC sur un vin."
+  },
+  {
+    "id": "d2-igp",
+    "categorie": "Dossier 2",
+    "terme": "IGP",
+    "definition_courte": "Indication géographique protégée. Au moins une étape a lieu dans l’aire liée à la réputation ou aux caractéristiques du produit.",
+    "exemple_professionnel": "Le vendeur vérifie l’IGP avant d’expliquer le lien avec le territoire."
+  },
+  {
+    "id": "d2-stg",
+    "categorie": "Dossier 2",
+    "terme": "STG",
+    "definition_courte": "Spécialité traditionnelle garantie. Elle protège une recette ou un mode de production traditionnel.",
+    "exemple_professionnel": "Je présente la tradition de fabrication sans déduire un lieu de production."
+  },
+  {
+    "id": "d2-label-rouge",
+    "categorie": "Dossier 2",
+    "terme": "Label Rouge",
+    "definition_courte": "Signe français attestant une qualité supérieure à celle des produits similaires courants.",
+    "exemple_professionnel": "Un poulet Label Rouge répond à un cahier des charges contrôlé."
+  },
+  {
+    "id": "d2-agriculture-biologique",
+    "categorie": "Dossier 2",
+    "terme": "Agriculture biologique",
+    "definition_courte": "Mode de production réglementé qui encadre les pratiques agricoles, notamment l’usage des substances de synthèse.",
+    "exemple_professionnel": "Je repère la feuille européenne sur un paquet de pâtes biologiques."
+  },
+  {
+    "id": "d2-chiffre-daffaires",
+    "categorie": "Dossier 2",
+    "terme": "Chiffre d’affaires",
+    "definition_courte": "Montant des ventes réalisées pendant une période donnée.",
+    "exemple_professionnel": "Mathieu compare les ventes du rayon de deux semaines comparables."
+  },
+  {
+    "id": "d2-hypothese",
+    "categorie": "Dossier 2",
+    "terme": "Hypothèse",
+    "definition_courte": "Explication possible qui doit encore être vérifiée.",
+    "exemple_professionnel": "Des emplacements vides ont peut-être contribué à la baisse des ventes."
+  },
+  {
+    "id": "d2-etat-marchand",
+    "categorie": "Dossier 2",
+    "terme": "État marchand",
+    "definition_courte": "État d’un rayon dont les produits sont disponibles, présentables et correctement identifiés pour le client.",
+    "exemple_professionnel": "Avant l’ouverture, je vérifie l’ordre, les prix et les manques."
+  },
+  {
+    "id": "d2-ultra-frais",
+    "categorie": "Dossier 2",
+    "terme": "Ultra-frais",
+    "definition_courte": "Famille comprenant notamment les yaourts, fromages frais et desserts lactés réfrigérés.",
+    "exemple_professionnel": "J’inspecte les desserts au chocolat du rayon ultra-frais."
+  }
+]

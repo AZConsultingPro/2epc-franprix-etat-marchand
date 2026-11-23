@@ -1,0 +1,749 @@
+{
+  "metadata": {
+    "titre": "Lexique professionnel CAP Équipier polyvalent du commerce",
+    "source": "Photographies fournies par l’enseignant du lexique Hachette Livre CAP Équipier polyvalent du commerce, édition 2025, pages 12 à 16.",
+    "provenance": "Transcription structurée des entrées, avec reformulation pédagogique courte des définitions et exemples originaux créés pour les élèves. Les définitions reformulées ne sont pas des citations littérales du manuel.",
+    "statut": "V1 - revue humaine recommandée avant publication ; les questions QCU/QCM et leurs distracteurs restent à construire.",
+    "nombre_entrees": 79,
+    "repartition_par_categorie": {
+      "Caisse": 3,
+      "Calculs commerciaux": 4,
+      "Clients": 3,
+      "Communication": 5,
+      "Développement durable": 3,
+      "Distribution des produits": 2,
+      "Documents commerciaux": 2,
+      "Environnement économique": 5,
+      "Environnement juridique": 8,
+      "Matériels de manutention": 4,
+      "Organisation du point de vente": 15,
+      "Préparation de commande et livraison": 4,
+      "Produit / marchandise": 7,
+      "Réglementation des produits": 7,
+      "Réserve du point de vente et stockage": 7
+    },
+    "nombre_prioritaires_omnicanal": 18,
+    "schema": {
+      "id": "identifiant stable",
+      "categorie": "rubrique du lexique source",
+      "terme": "entrée du lexique",
+      "definition_courte": "reformulation en langue accessible",
+      "exemple_professionnel": "illustration contextualisée",
+      "page_source": "page du lexique photographié",
+      "priorite_omnicanal": "pertinence immédiate pour la séquence omnicanale"
+    }
+  },
+  "entrees": [
+    {
+      "categorie": "Caisse",
+      "terme": "Fonds de caisse",
+      "definition_courte": "Somme d’argent disponible dans la caisse au début du service pour rendre la monnaie.",
+      "exemple_professionnel": "Avant l’ouverture, l’équipier vérifie le fonds de caisse.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "fonds-de-caisse"
+    },
+    {
+      "categorie": "Caisse",
+      "terme": "Matériel de caisse",
+      "definition_courte": "Ensemble des équipements servant à enregistrer et encaisser les ventes.",
+      "exemple_professionnel": "L’équipier utilise le lecteur de code-barres et le terminal de paiement.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "materiel-de-caisse"
+    },
+    {
+      "categorie": "Caisse",
+      "terme": "Moyens de paiement",
+      "definition_courte": "Différentes façons de régler un achat : espèces, carte, chèque ou paiement mobile, selon les moyens acceptés.",
+      "exemple_professionnel": "La cliente règle ses achats avec son téléphone.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "moyens-de-paiement"
+    },
+    {
+      "categorie": "Calculs commerciaux",
+      "terme": "Marge commerciale",
+      "definition_courte": "Différence entre les ventes de marchandises hors taxes et leur coût d’achat.",
+      "exemple_professionnel": "L’enseigne compare ses ventes au coût d’achat des articles vendus.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "marge-commerciale"
+    },
+    {
+      "categorie": "Calculs commerciaux",
+      "terme": "Prix de vente toutes taxes comprises (PV TTC)",
+      "definition_courte": "Prix payé par le client, qui inclut la TVA après les éventuelles remises.",
+      "exemple_professionnel": "Une étiquette indique le prix TTC d’un sac.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "prix-de-vente-toutes-taxes-comprises-pv-ttc"
+    },
+    {
+      "categorie": "Calculs commerciaux",
+      "terme": "Remise",
+      "definition_courte": "Réduction accordée sur un prix ou un montant.",
+      "exemple_professionnel": "Le magasin applique une remise de 10 % sur un article.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "remise"
+    },
+    {
+      "categorie": "Calculs commerciaux",
+      "terme": "Taxe sur la valeur ajoutée (TVA)",
+      "definition_courte": "Taxe incluse dans le prix TTC et calculée à partir du prix hors taxes.",
+      "exemple_professionnel": "Le ticket de caisse fait apparaître la TVA.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "taxe-sur-la-valeur-ajoutee-tva"
+    },
+    {
+      "categorie": "Clients",
+      "terme": "Fidélisation",
+      "definition_courte": "Actions destinées à encourager les clients à revenir acheter dans l’enseigne.",
+      "exemple_professionnel": "Une carte de fidélité propose des avantages aux clients réguliers.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "fidelisation"
+    },
+    {
+      "categorie": "Clients",
+      "terme": "Motivations des clients",
+      "definition_courte": "Raisons qui poussent à acheter, par exemple se faire plaisir, faire plaisir ou affirmer son style.",
+      "exemple_professionnel": "Un client choisit une veste pour exprimer son style.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "motivations-des-clients"
+    },
+    {
+      "categorie": "Clients",
+      "terme": "Types de clients",
+      "definition_courte": "Profils variés de clients auxquels le vendeur adapte sa façon de présenter et d’expliquer les produits.",
+      "exemple_professionnel": "L’équipier rassure une cliente inquiète et fournit des informations précises à un client expert.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "types-de-clients"
+    },
+    {
+      "categorie": "Communication",
+      "terme": "Communication commerciale",
+      "definition_courte": "Messages qu’une entreprise adresse à ses clients pour informer et développer ses ventes.",
+      "exemple_professionnel": "L’enseigne annonce une nouvelle collection sur son site.",
+      "page_source": 12,
+      "priorite_omnicanal": true,
+      "id": "communication-commerciale"
+    },
+    {
+      "categorie": "Communication",
+      "terme": "Écoute active",
+      "definition_courte": "Façon d’écouter attentivement, de reformuler et de vérifier le besoin du client.",
+      "exemple_professionnel": "L’équipier reformule la demande avant de proposer une solution.",
+      "page_source": 12,
+      "priorite_omnicanal": true,
+      "id": "ecoute-active"
+    },
+    {
+      "categorie": "Communication",
+      "terme": "Réclamation",
+      "definition_courte": "Expression d’une insatisfaction par un client, nécessitant une prise en charge adaptée.",
+      "exemple_professionnel": "Un client signale qu’il a reçu la mauvaise taille.",
+      "page_source": 12,
+      "priorite_omnicanal": true,
+      "id": "reclamation"
+    },
+    {
+      "categorie": "Communication",
+      "terme": "Registre de langue",
+      "definition_courte": "Niveau de langage employé selon la situation : familier, courant ou soutenu.",
+      "exemple_professionnel": "Face au client, l’équipier choisit un langage professionnel et compréhensible.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "registre-de-langue"
+    },
+    {
+      "categorie": "Communication",
+      "terme": "Schéma de la communication",
+      "definition_courte": "Représentation d’un échange entre un émetteur, un message et un récepteur.",
+      "exemple_professionnel": "Un équipier explique la procédure de retour à une cliente.",
+      "page_source": 12,
+      "priorite_omnicanal": false,
+      "id": "schema-de-la-communication"
+    },
+    {
+      "categorie": "Développement durable",
+      "terme": "Développement durable",
+      "definition_courte": "Façon de répondre aux besoins actuels en préservant la possibilité pour les générations futures de répondre aux leurs.",
+      "exemple_professionnel": "Le magasin réduit les emballages inutiles.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "developpement-durable"
+    },
+    {
+      "categorie": "Développement durable",
+      "terme": "Responsabilité sociétale des entreprises (RSE)",
+      "definition_courte": "Prise en compte par l’entreprise des enjeux sociaux, environnementaux et économiques.",
+      "exemple_professionnel": "L’entreprise améliore le tri des déchets et les conditions de travail.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "responsabilite-societale-des-entreprises-rse"
+    },
+    {
+      "categorie": "Développement durable",
+      "terme": "Tri des principaux flux",
+      "definition_courte": "Séparation des déchets par matière ou filière pour permettre leur prise en charge adaptée.",
+      "exemple_professionnel": "L’équipe trie séparément cartons, plastiques et verre.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "tri-des-principaux-flux"
+    },
+    {
+      "categorie": "Distribution des produits",
+      "terme": "Canaux de vente",
+      "definition_courte": "Moyens ou interfaces qui permettent à une enseigne de proposer ses produits à l’achat.",
+      "exemple_professionnel": "Le client achète sur le site marchand puis retire en magasin.",
+      "page_source": 13,
+      "priorite_omnicanal": true,
+      "id": "canaux-de-vente"
+    },
+    {
+      "categorie": "Distribution des produits",
+      "terme": "Circuit de distribution",
+      "definition_courte": "Chemin suivi par un produit entre son producteur et le consommateur.",
+      "exemple_professionnel": "Le produit passe du fabricant au magasin puis au client.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "circuit-de-distribution"
+    },
+    {
+      "categorie": "Documents commerciaux",
+      "terme": "Bon de commande",
+      "definition_courte": "Document qui récapitule les produits commandés et les conditions de la commande.",
+      "exemple_professionnel": "L’équipier contrôle la référence inscrite sur le bon de commande.",
+      "page_source": 13,
+      "priorite_omnicanal": true,
+      "id": "bon-de-commande"
+    },
+    {
+      "categorie": "Documents commerciaux",
+      "terme": "Bon de livraison",
+      "definition_courte": "Document qui récapitule les marchandises remises ou livrées.",
+      "exemple_professionnel": "Lors de la réception, l’équipier compare le bon de livraison aux colis.",
+      "page_source": 13,
+      "priorite_omnicanal": true,
+      "id": "bon-de-livraison"
+    },
+    {
+      "categorie": "Environnement économique",
+      "terme": "Agents économiques",
+      "definition_courte": "Acteurs qui participent à l’économie : ménages, entreprises, administrations et institutions financières.",
+      "exemple_professionnel": "Le magasin est une entreprise qui vend aux ménages.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "agents-economiques"
+    },
+    {
+      "categorie": "Environnement économique",
+      "terme": "Biens et services",
+      "definition_courte": "Un bien est matériel ; un service est une prestation immatérielle.",
+      "exemple_professionnel": "Une paire de chaussures est un bien ; la livraison est un service.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "biens-et-services"
+    },
+    {
+      "categorie": "Environnement économique",
+      "terme": "Circuit économique",
+      "definition_courte": "Représentation des échanges de biens, services et argent entre agents économiques.",
+      "exemple_professionnel": "Un client paie le magasin en échange d’un article.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "circuit-economique"
+    },
+    {
+      "categorie": "Environnement économique",
+      "terme": "Marché de l’entreprise",
+      "definition_courte": "Environnement où se rencontrent l’offre des vendeurs et la demande des clients.",
+      "exemple_professionnel": "Une enseigne observe les besoins des clients et les propositions concurrentes.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "marche-de-lentreprise"
+    },
+    {
+      "categorie": "Environnement économique",
+      "terme": "Service non marchand",
+      "definition_courte": "Service fourni gratuitement ou à un prix peu significatif, notamment par une administration.",
+      "exemple_professionnel": "Une mairie assure certains services publics.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "service-non-marchand"
+    },
+    {
+      "categorie": "Environnement juridique",
+      "terme": "Contrat d’apprentissage",
+      "definition_courte": "Contrat de travail en alternance permettant d’apprendre un métier tout en préparant un diplôme ou un titre.",
+      "exemple_professionnel": "Un apprenti partage son temps entre le magasin et son centre de formation.",
+      "page_source": 13,
+      "priorite_omnicanal": false,
+      "id": "contrat-dapprentissage"
+    },
+    {
+      "categorie": "Environnement juridique",
+      "terme": "Contrat de professionnalisation",
+      "definition_courte": "Contrat de travail en alternance destiné à acquérir une qualification professionnelle.",
+      "exemple_professionnel": "Un salarié suit une formation tout en travaillant dans une entreprise.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "contrat-de-professionnalisation"
+    },
+    {
+      "categorie": "Environnement juridique",
+      "terme": "Contrat à durée déterminée (CDD)",
+      "definition_courte": "Contrat de travail conclu pour une durée ou une fin définie dans les conditions prévues par la loi.",
+      "exemple_professionnel": "Une enseigne recrute pour renforcer l’équipe durant une période précise.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "contrat-a-duree-determinee-cdd"
+    },
+    {
+      "categorie": "Environnement juridique",
+      "terme": "Contrat à durée indéterminée (CDI)",
+      "definition_courte": "Contrat de travail dont la date de fin n’est pas fixée à l’avance.",
+      "exemple_professionnel": "Une vendeuse est embauchée en CDI.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "contrat-a-duree-indeterminee-cdi"
+    },
+    {
+      "categorie": "Environnement juridique",
+      "terme": "Contrat de travail temporaire (intérim)",
+      "definition_courte": "Contrat impliquant une agence d’intérim qui met un salarié à disposition d’une entreprise pour une mission.",
+      "exemple_professionnel": "Un intérimaire aide l’équipe pendant une forte activité.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "contrat-de-travail-temporaire-interim"
+    },
+    {
+      "categorie": "Environnement juridique",
+      "terme": "Contrat de vente",
+      "definition_courte": "Accord par lequel un vendeur fournit un bien ou service et l’acheteur en paie le prix.",
+      "exemple_professionnel": "Le client achète un casque et règle le prix affiché.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "contrat-de-vente"
+    },
+    {
+      "categorie": "Environnement juridique",
+      "terme": "Règlement intérieur",
+      "definition_courte": "Document qui fixe notamment des règles d’hygiène, de sécurité et de discipline dans l’entreprise.",
+      "exemple_professionnel": "L’équipier respecte les consignes de sécurité du règlement intérieur.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "reglement-interieur"
+    },
+    {
+      "categorie": "Environnement juridique",
+      "terme": "Responsabilité civile",
+      "definition_courte": "Obligation de réparer un dommage causé à autrui dans les conditions prévues par le droit.",
+      "exemple_professionnel": "Un dommage causé à un tiers peut engager une responsabilité civile.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "responsabilite-civile"
+    },
+    {
+      "categorie": "Matériels de manutention",
+      "terme": "Diable",
+      "definition_courte": "Chariot à deux roues destiné à déplacer des charges lourdes ou volumineuses.",
+      "exemple_professionnel": "L’équipier transporte plusieurs cartons avec un diable.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "diable"
+    },
+    {
+      "categorie": "Matériels de manutention",
+      "terme": "Gerbeur manuel",
+      "definition_courte": "Matériel servant à soulever et ranger des charges sur des emplacements en hauteur.",
+      "exemple_professionnel": "Le gerbeur permet de positionner une palette sur un niveau de stockage.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "gerbeur-manuel"
+    },
+    {
+      "categorie": "Matériels de manutention",
+      "terme": "Roll",
+      "definition_courte": "Chariot métallique à roulettes, souvent grillagé, servant à transporter des marchandises.",
+      "exemple_professionnel": "Le livreur arrive avec un roll de produits.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "roll"
+    },
+    {
+      "categorie": "Matériels de manutention",
+      "terme": "Transpalette",
+      "definition_courte": "Appareil qui permet de déplacer une palette au sol sur une faible hauteur.",
+      "exemple_professionnel": "Une palette est amenée en réserve avec un transpalette.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "transpalette"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Assortiment",
+      "definition_courte": "Ensemble des produits proposés à la vente dans un point de vente.",
+      "exemple_professionnel": "Le rayon présente un assortiment de baskets de différentes tailles.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "assortiment"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Balisage",
+      "definition_courte": "Supports d’information placés pour orienter les clients et faciliter leur repérage.",
+      "exemple_professionnel": "Un panneau indique où se trouve le rayon chaussures.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "balisage"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Espaces commerciaux",
+      "definition_courte": "Lieux physiques ou numériques dans lesquels l’enseigne présente et vend son offre.",
+      "exemple_professionnel": "L’enseigne dispose d’un magasin et d’un site e-commerce.",
+      "page_source": 14,
+      "priorite_omnicanal": true,
+      "id": "espaces-commerciaux"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Facing (frontale)",
+      "definition_courte": "Action de ramener et d’aligner les produits en façade du rayon pour les rendre visibles.",
+      "exemple_professionnel": "L’équipier remet les paquets au bord de l’étagère.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "facing-frontale"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Facteurs d’ambiance",
+      "definition_courte": "Éléments sensoriels qui influencent l’atmosphère du magasin : lumière, musique, odeur, etc.",
+      "exemple_professionnel": "La lumière met en valeur les articles du rayon.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "facteurs-dambiance"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Image de l’entreprise",
+      "definition_courte": "Identité et valeurs que l’entreprise souhaite faire connaître à sa clientèle.",
+      "exemple_professionnel": "L’enseigne communique sur la qualité et la durabilité de ses produits.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "image-de-lentreprise"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Implantation des produits",
+      "definition_courte": "Organisation des articles dans le point de vente ou dans les rayons.",
+      "exemple_professionnel": "L’équipe place les produits par famille et par taille.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "implantation-des-produits"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Information sur le lieu de vente (ILV)",
+      "definition_courte": "Affichage destiné à renseigner ou orienter le client dans le magasin.",
+      "exemple_professionnel": "Une affiche présente les horaires et les services du point de vente.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "information-sur-le-lieu-de-vente-ilv"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Mobilier de rangement, de vente et de présentation",
+      "definition_courte": "Équipements servant à stocker, présenter ou mettre en valeur les produits.",
+      "exemple_professionnel": "Les vêtements sont présentés sur des portants et des gondoles.",
+      "page_source": 14,
+      "priorite_omnicanal": false,
+      "id": "mobilier-de-rangement-de-vente-et-de-presentation"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Niveaux de présentation des produits",
+      "definition_courte": "Hauteurs auxquelles les produits sont placés : sol, genoux, mains ou yeux.",
+      "exemple_professionnel": "Un produit fréquent est présenté à hauteur des mains.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "niveaux-de-presentation-des-produits"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Outils digitaux à disposition du client",
+      "definition_courte": "Dispositifs numériques utilisables par le client, comme une application ou une borne interactive.",
+      "exemple_professionnel": "La cliente vérifie la disponibilité d’une taille sur une borne.",
+      "page_source": 15,
+      "priorite_omnicanal": true,
+      "id": "outils-digitaux-a-disposition-du-client"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Publicité sur le lieu de vente (PLV)",
+      "definition_courte": "Support publicitaire placé dans le magasin pour promouvoir un produit ou une offre.",
+      "exemple_professionnel": "Un stop-rayon signale une promotion.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "publicite-sur-le-lieu-de-vente-plv"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Règles de présentation",
+      "definition_courte": "Consignes permettant de disposer les produits de façon claire, soignée et attractive.",
+      "exemple_professionnel": "L’équipier évite les trous dans le rayon.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "regles-de-presentation"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Planigramme",
+      "definition_courte": "Outil utilisé pour représenter l’organisation des approvisionnements ou des relances fournisseurs, selon le contexte du manuel.",
+      "exemple_professionnel": "Un responsable visualise les commandes et les relances programmées.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "planigramme"
+    },
+    {
+      "categorie": "Organisation du point de vente",
+      "terme": "Remise des colis",
+      "definition_courte": "Façons de transmettre un colis au client : domicile, point relais ou retrait en magasin, selon le service.",
+      "exemple_professionnel": "La cliente retire en magasin un colis réservé sur internet.",
+      "page_source": 15,
+      "priorite_omnicanal": true,
+      "id": "remise-des-colis"
+    },
+    {
+      "categorie": "Préparation de commande et livraison",
+      "terme": "Contrôle qualitatif",
+      "definition_courte": "Vérification de l’état et de la qualité des marchandises reçues ou préparées.",
+      "exemple_professionnel": "L’équipier vérifie que l’emballage n’est pas déchiré.",
+      "page_source": 15,
+      "priorite_omnicanal": true,
+      "id": "controle-qualitatif"
+    },
+    {
+      "categorie": "Préparation de commande et livraison",
+      "terme": "Contrôle quantitatif",
+      "definition_courte": "Vérification du nombre de produits reçus ou préparés.",
+      "exemple_professionnel": "La commande prévoit trois articles : l’équipier les compte.",
+      "page_source": 15,
+      "priorite_omnicanal": true,
+      "id": "controle-quantitatif"
+    },
+    {
+      "categorie": "Préparation de commande et livraison",
+      "terme": "Drive",
+      "definition_courte": "Service de retrait où le client récupère les produits commandés, souvent avec son véhicule.",
+      "exemple_professionnel": "Le client récupère ses courses au drive.",
+      "page_source": 15,
+      "priorite_omnicanal": true,
+      "id": "drive"
+    },
+    {
+      "categorie": "Préparation de commande et livraison",
+      "terme": "Picking",
+      "definition_courte": "Prélèvement organisé des produits d’une commande dans les zones de stockage ou de vente.",
+      "exemple_professionnel": "L’équipier rassemble les produits commandés avant l’emballage.",
+      "page_source": 15,
+      "priorite_omnicanal": true,
+      "id": "picking"
+    },
+    {
+      "categorie": "Produit / marchandise",
+      "terme": "Animation",
+      "definition_courte": "Action ponctuelle destinée à présenter ou mettre en valeur un produit en magasin.",
+      "exemple_professionnel": "Une démonstration permet de découvrir un nouvel article.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "animation"
+    },
+    {
+      "categorie": "Produit / marchandise",
+      "terme": "Conditionnement et emballage du produit",
+      "definition_courte": "Protections successives d’un produit qui facilitent sa présentation, son stockage ou son transport.",
+      "exemple_professionnel": "L’équipier emballe soigneusement un article fragile.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "conditionnement-et-emballage-du-produit"
+    },
+    {
+      "categorie": "Produit / marchandise",
+      "terme": "Démarque connue",
+      "definition_courte": "Perte de stock dont la cause est identifiée, par exemple une casse ou une destruction.",
+      "exemple_professionnel": "Un produit abîmé et retiré de la vente est enregistré.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "demarque-connue"
+    },
+    {
+      "categorie": "Produit / marchandise",
+      "terme": "Démarque inconnue",
+      "definition_courte": "Différence de stock ou perte dont la cause n’est pas identifiée.",
+      "exemple_professionnel": "L’inventaire révèle des articles manquants sans explication connue.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "demarque-inconnue"
+    },
+    {
+      "categorie": "Produit / marchandise",
+      "terme": "Marque",
+      "definition_courte": "Signe distinctif qui permet de reconnaître et différencier les produits ou services d’une entreprise.",
+      "exemple_professionnel": "Deux chaussures similaires portent des marques différentes.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "marque"
+    },
+    {
+      "categorie": "Produit / marchandise",
+      "terme": "Promotion",
+      "definition_courte": "Offre commerciale temporaire visant à stimuler les ventes, selon les règles applicables.",
+      "exemple_professionnel": "Une remise est annoncée sur une sélection de produits.",
+      "page_source": 15,
+      "priorite_omnicanal": false,
+      "id": "promotion"
+    },
+    {
+      "categorie": "Produit / marchandise",
+      "terme": "Services associés",
+      "definition_courte": "Prestations supplémentaires accompagnant l’achat d’un produit ou d’un service.",
+      "exemple_professionnel": "Le magasin propose la livraison ou un service d’installation.",
+      "page_source": 15,
+      "priorite_omnicanal": true,
+      "id": "services-associes"
+    },
+    {
+      "categorie": "Réglementation des produits",
+      "terme": "Chaîne du froid",
+      "definition_courte": "Ensemble des étapes qui maintiennent un produit à la température adaptée jusqu’à sa remise au consommateur.",
+      "exemple_professionnel": "L’équipier range rapidement les produits frais à la température requise.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "chaine-du-froid"
+    },
+    {
+      "categorie": "Réglementation des produits",
+      "terme": "Date de congélation",
+      "definition_courte": "Information indiquant la date à laquelle un produit a été congelé, lorsque cette mention est requise.",
+      "exemple_professionnel": "L’équipier vérifie l’étiquette d’un produit congelé.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "date-de-congelation"
+    },
+    {
+      "categorie": "Réglementation des produits",
+      "terme": "Date de durabilité minimale (DDM)",
+      "definition_courte": "Date après laquelle un produit peut perdre certaines qualités sans être nécessairement dangereux.",
+      "exemple_professionnel": "L’équipier repère une DDM avec la mention « à consommer de préférence avant ».",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "date-de-durabilite-minimale-ddm"
+    },
+    {
+      "categorie": "Réglementation des produits",
+      "terme": "Date limite de consommation (DLC)",
+      "definition_courte": "Date après laquelle un aliment très périssable ne doit plus être consommé.",
+      "exemple_professionnel": "L’équipier retire du rayon un produit dont la DLC est dépassée.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "date-limite-de-consommation-dlc"
+    },
+    {
+      "categorie": "Réglementation des produits",
+      "terme": "Direction départementale de la protection des populations (DDPP)",
+      "definition_courte": "Service de l’État participant notamment à la protection des consommateurs et aux contrôles sanitaires.",
+      "exemple_professionnel": "La DDPP peut contrôler le respect de certaines règles sanitaires.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "direction-departementale-de-la-protection-des-populations-ddpp"
+    },
+    {
+      "categorie": "Réglementation des produits",
+      "terme": "Édition des étiquettes prix et produits",
+      "definition_courte": "Préparation d’étiquettes comportant les mentions nécessaires pour identifier un produit et informer le client.",
+      "exemple_professionnel": "L’équipier imprime une étiquette indiquant le prix au kilogramme.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "edition-des-etiquettes-prix-et-produits"
+    },
+    {
+      "categorie": "Réglementation des produits",
+      "terme": "Signes d’identification de l’origine et de la qualité",
+      "definition_courte": "Signes officiels signalant une origine, une qualité ou un mode de production reconnu.",
+      "exemple_professionnel": "Le client repère un produit portant le Label Rouge ou une AOP.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "signes-didentification-de-lorigine-et-de-la-qualite"
+    },
+    {
+      "categorie": "Réserve du point de vente et stockage",
+      "terme": "Adressage",
+      "definition_courte": "Système de repérage codé des emplacements de stockage.",
+      "exemple_professionnel": "L’emplacement B-03 permet de retrouver rapidement un carton.",
+      "page_source": 16,
+      "priorite_omnicanal": true,
+      "id": "adressage"
+    },
+    {
+      "categorie": "Réserve du point de vente et stockage",
+      "terme": "Cadencier",
+      "definition_courte": "Outil de suivi des ventes et des commandes pour aider à éviter les ruptures de stock.",
+      "exemple_professionnel": "L’équipe consulte le cadencier avant de commander de nouveaux articles.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "cadencier"
+    },
+    {
+      "categorie": "Réserve du point de vente et stockage",
+      "terme": "Capacité de stockage",
+      "definition_courte": "Quantité maximale de marchandises qu’un espace de stockage peut accueillir.",
+      "exemple_professionnel": "Le responsable vérifie combien de cartons peuvent être rangés.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "capacite-de-stockage"
+    },
+    {
+      "categorie": "Réserve du point de vente et stockage",
+      "terme": "Inventaire",
+      "definition_courte": "Opération consistant à compter les marchandises en stock.",
+      "exemple_professionnel": "Les équipiers comptent les articles pour comparer le réel au stock indiqué.",
+      "page_source": 16,
+      "priorite_omnicanal": true,
+      "id": "inventaire"
+    },
+    {
+      "categorie": "Réserve du point de vente et stockage",
+      "terme": "Réserve",
+      "definition_courte": "Espace où les marchandises sont stockées avant leur mise en rayon ou leur préparation.",
+      "exemple_professionnel": "L’équipier récupère en réserve une commande à retirer.",
+      "page_source": 16,
+      "priorite_omnicanal": true,
+      "id": "reserve"
+    },
+    {
+      "categorie": "Réserve du point de vente et stockage",
+      "terme": "Rotation des produits",
+      "definition_courte": "Organisation du renouvellement des articles, notamment selon les dates ou les règles de sortie du stock.",
+      "exemple_professionnel": "Les produits aux dates les plus proches sont placés devant.",
+      "page_source": 16,
+      "priorite_omnicanal": false,
+      "id": "rotation-des-produits"
+    },
+    {
+      "categorie": "Réserve du point de vente et stockage",
+      "terme": "Rupture de stock",
+      "definition_courte": "Situation où la quantité disponible ne suffit plus à répondre à la demande.",
+      "exemple_professionnel": "Le client souhaite une taille qui n’est plus disponible.",
+      "page_source": 16,
+      "priorite_omnicanal": true,
+      "id": "rupture-de-stock"
+    }
+  ]
+}
